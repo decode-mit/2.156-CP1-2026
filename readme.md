@@ -4,6 +4,12 @@ This challenge problem is focused on synthesizing planar linkage mechanisms such
 
 <img src="https://i.ibb.co/qsPC0gC/2021-09-13-0hl-Kleki.png" alt="Numbered Mechanism" border="0">
 
+The three target shapes to trace are shown below:
+
+| Kangaroo | Round | No ear / tail |
+|:---:|:---:|:---:|
+| <img src="kangaroo.png" alt="Kangaroo" width="250"> | <img src="kangaroo_round.png" alt="Kangaroo (round)" width="250"> | <img src="kangaroo_no_ear_no_tail.png" alt="Kangaroo (no ear, no tail)" width="250"> |
+
 ## Pull the code
 You can open the two notebook files in colab to run. If you want to run locally, pull the code to your computer:
 ```bash
