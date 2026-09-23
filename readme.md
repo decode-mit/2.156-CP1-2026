@@ -8,7 +8,7 @@ The three target shapes to trace are shown below:
 
 | Kangaroo | Round | No ear / tail |
 |:---:|:---:|:---:|
-| <img src="kangaroo.png" alt="Kangaroo" width="250"> | <img src="kangaroo_no_ear_no_tail.png" alt="Kangaroo (no ear, no tail)" width="250">  | <img src="kangaroo_round.png" alt="Kangaroo (round)" width="250"> |
+|  <img src="kangaroo_no_ear_no_tail.png" alt="Kangaroo (no ear, no tail)" width="250">  | <img src="kangaroo_round.png" alt="Kangaroo (round)" width="250"> |<img src="kangaroo.png" alt="Kangaroo" width="250"> |
 
 with increasing difficulty.
 ## Pull the code
