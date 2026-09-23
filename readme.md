@@ -1,14 +1,17 @@
 ## Linkage Synthesis Challenge Problem
 
-This challenge problem is focused on synthesizing planar linkage mechanisms such that a specific output curve is traced using the mechanism. For this project you are tasked with synthesizing linkage mechanisms to trace 3 different output shapes. Further you are tasked with synthesizing mechanisms such that the total material used for the mechanisms in minimized. 
+This challenge problem focuses on synthesizing planar linkage mechanisms that trace specified output curves. You are tasked with designing mechanisms for three different target shapes.
+
+Our ultimate goal is to reproduce the kangaroo meme, but we also provide two easier versions with progressively increasing difficulty. Through these three targets, you will see how the difficulty of linkage synthesis changes as the contour becomes less smooth and more geometrically complex.
+
 
 <img src="https://i.ibb.co/qsPC0gC/2021-09-13-0hl-Kleki.png" alt="Numbered Mechanism" border="0">
 
 The three target shapes to trace are shown below:
 
-| Kangaroo | Round | No ear / tail |
+|  Smooth front view version | No ear / tail version | Kangaroo (original meme) |
 |:---:|:---:|:---:|
-|  <img src="kangaroo_no_ear_no_tail.png" alt="Kangaroo (no ear, no tail)" width="250">  | <img src="kangaroo_round.png" alt="Kangaroo (round)" width="250"> |<img src="kangaroo.png" alt="Kangaroo" width="250"> |
+| <img src="kangaroo_round.png" alt="Kangaroo (round)" width="250"> | <img src="kangaroo_no_ear_no_tail.png" alt="Kangaroo (no ear, no tail)" width="250">  | <img src="kangaroo.png" alt="Kangaroo" width="250"> |
 
 with increasing difficulty.
 ## Pull the code
