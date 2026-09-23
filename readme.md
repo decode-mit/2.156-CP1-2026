@@ -5,14 +5,14 @@ This challenge problem is focused on synthesizing planar linkage mechanisms such
 <img src="https://i.ibb.co/qsPC0gC/2021-09-13-0hl-Kleki.png" alt="Numbered Mechanism" border="0">
 
 ## Pull the code
-
+You can open the two notebook files in colab to run. If you want to run locally, pull the code to your computer:
 ```bash
-git clone git@github.com:HuaiboChen/2.156-CP1.git
-cd 2.156-CP1
+git clone git@github.com:decode-mit/2.156-CP1-2026.git
+cd 2.156-CP1-2026
 ```
 ## Create a Python 3.10 Environment with `uv`
 
-This guide shows how to create a fresh Python 3.10 virtual environment using `uv` and install dependencies from `requirements_CPU.txt`.
+This guide shows how to create a fresh Python 3.10 virtual environment using `uv` and install dependencies from `requirements.txt`.
 
 ```bash
 uv venv --python 3.10 .venv
